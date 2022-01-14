@@ -44,8 +44,8 @@ if we want to creat 4 paragraph we use 4*p <br>
 <strong>lecture 6:  # link and images   </strong><br>
 if you want to add the link of your website then use <strong>a</strong> emmet abbrivatio and add link after adding search engine in href<br>
 
-<a href="www.google.com"> facebook.com</a>and 
-<a href="google.com" target="_blank">jio.com</a> etc <br>
+<a href="www.google.com"> aspirestudy</a>and 
+<a href="google.com" target="_blank">www.google.com</a> etc <br>
 if you want to open your website then use same method but some changes as like <strong>href = search engine / target attributes=_blank / own web link </strong><br>
 <br> <strong># for image </strong> <br>
 for image we use <strong>img tag </strong> src=path of the image and alt is = remote image /error uploading image /width attributes height atributes of the image <br>
