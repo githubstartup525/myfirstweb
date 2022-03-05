@@ -10,6 +10,9 @@
 <body>
   
   <h1>lecture 1 and lecture 2</h1>
+  <h1>PRAJJWAL SHARMA </h1>
+
+
   <STRONg>lecture 1:</STRONg><br>
   HTML - hyper text markup laguage <br>
   css- cascading style sheet language <br>
